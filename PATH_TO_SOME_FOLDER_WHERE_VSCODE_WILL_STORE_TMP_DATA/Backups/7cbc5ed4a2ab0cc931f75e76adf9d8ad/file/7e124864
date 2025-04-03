@@ -1,0 +1,23 @@
+file:///c%3A/Users/user/Desktop/User%20Authentication%20%26%20Profile%20API%20Stack/project/project/config/db.js {"mtime":1743672676557,"ctime":1743138242000,"size":420,"etag":"3e2bs3rb6dh","orphaned":false,"typeId":""}
+const mysql = require('mysql2');
+const dotenv = require('dotenv');
+
+dotenv.config();
+
+const db = mysql.createConnection({
+    host: "localhost",
+    user: "root",
+    password: "12345678",
+    database: "profile2"
+});
+
+db.connect((err) => {
+    if (err) {
+        console.error('Database connection error:', err);
+        process.exit(1);
+    } else {
+        console.log('MySQL connected');
+    }
+});
+
+module.exports = db;

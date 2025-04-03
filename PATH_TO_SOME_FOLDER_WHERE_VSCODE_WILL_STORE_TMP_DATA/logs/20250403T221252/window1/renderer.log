@@ -1,0 +1,5 @@
+2025-04-03 22:12:55.140 [info] Started local extension host with pid 17904.
+2025-04-03 22:12:56.831 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-04-03 22:12:59.768 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-03 22:13:01.783 [info] [perf] Render performance baseline is 100ms
+2025-04-03 22:13:14.674 [warning] [backup tracker] suspended, ignoring unregister event file:///c%3A/Users/user/Desktop/User%20Authentication%20%26%20Profile%20API%20Stack/project/package.json 

@@ -1,0 +1,19 @@
+2025-04-03 14:12:37.897 [error] Error: Error mutex already exists
+    at xu.U (file:///C:/Users/user/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/main.js:77:29589)
+2025-04-03 14:12:37.897 [info] update#setState idle
+2025-04-03 14:12:59.320 [info] Extension host with pid 15292 exited with code: 0, signal: unknown.
+2025-04-03 14:13:07.876 [info] update#setState checking for updates
+2025-04-03 14:13:07.965 [info] update#setState idle
+2025-04-03 15:13:07.902 [info] update#setState checking for updates
+2025-04-03 15:13:08.224 [info] update#setState idle
+2025-04-03 16:39:18.946 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-03 16:39:18.961 [info] update#setState checking for updates
+2025-04-03 16:39:20.381 [info] update#setState idle
+2025-04-03 21:35:20.205 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-03 21:35:20.207 [info] update#setState checking for updates
+2025-04-03 21:35:20.281 [error] #6: https://update.code.visualstudio.com/api/update/win32-x64-user/stable/ddc367ed5c8936efe395cffeec279b04ffd7db78 - error undefined net::ERR_NETWORK_IO_SUSPENDED
+2025-04-03 21:35:20.303 [error] Error: net::ERR_NETWORK_IO_SUSPENDED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118774)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-04-03 21:35:20.309 [info] update#setState idle
+2025-04-03 21:35:42.697 [info] Extension host with pid 22140 exited with code: 0, signal: unknown.

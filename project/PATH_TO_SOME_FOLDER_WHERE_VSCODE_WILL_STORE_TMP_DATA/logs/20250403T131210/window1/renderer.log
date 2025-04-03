@@ -1,0 +1,9 @@
+2025-04-03 13:12:13.261 [info] Started local extension host with pid 8144.
+2025-04-03 13:12:13.955 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-04-03 13:12:15.103 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-03 13:12:16.818 [info] [perf] Render performance baseline is 49ms
+2025-04-03 13:12:31.762 [info] Started local extension host with pid 13872.
+2025-04-03 13:12:33.168 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-03 13:12:34.527 [info] [perf] Render performance baseline is 106ms
+2025-04-03 13:12:36.023 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-04-03 13:12:59.606 [warning] [backup tracker] suspended, ignoring unregister event file:///c%3A/Users/user/Desktop/Mid-Project-main/mid%20project/package.json 

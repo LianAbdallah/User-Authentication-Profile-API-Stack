@@ -1,0 +1,4 @@
+2025-04-03 13:59:25.287 [error] Error: Error mutex already exists
+    at xu.U (file:///C:/Users/user/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/main.js:77:29589)
+2025-04-03 13:59:25.298 [info] update#setState idle
+2025-04-03 13:59:29.901 [info] Extension host with pid 10972 exited with code: 0, signal: unknown.

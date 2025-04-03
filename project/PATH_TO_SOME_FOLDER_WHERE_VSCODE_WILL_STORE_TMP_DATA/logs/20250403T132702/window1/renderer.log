@@ -1,0 +1,4 @@
+2025-04-03 13:27:05.116 [info] Started local extension host with pid 17860.
+2025-04-03 13:27:06.177 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-04-03 13:27:07.758 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-03 13:27:09.478 [info] [perf] Render performance baseline is 99ms

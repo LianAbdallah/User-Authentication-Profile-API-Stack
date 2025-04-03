@@ -1,0 +1,5 @@
+2025-04-03 14:12:16.859 [error] Invalid path provided: c:\Users\user\Desktop\Mid-Project-main, ENOENT: no such file or directory, stat 'c:\Users\user\Desktop\Mid-Project-main'
+2025-04-03 14:12:17.009 [error] Error: Error mutex already exists
+    at xu.U (file:///C:/Users/user/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/main.js:77:29589)
+2025-04-03 14:12:17.027 [info] update#setState idle
+2025-04-03 14:12:29.648 [info] Extension host with pid 19856 exited with code: 0, signal: unknown.

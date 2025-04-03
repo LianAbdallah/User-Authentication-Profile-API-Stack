@@ -1,0 +1,5 @@
+2025-04-03 13:20:15.803 [warning] Creation of workbench contribution 'workbench.chat.setup' took 21ms.
+2025-04-03 13:20:16.655 [info] Started local extension host with pid 9808.
+2025-04-03 13:20:18.015 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2025-04-03 13:20:19.578 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-03 13:20:21.811 [info] [perf] Render performance baseline is 147ms

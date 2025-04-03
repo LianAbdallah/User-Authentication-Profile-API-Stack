@@ -1,0 +1,14 @@
+2025-04-03 13:40:12.193 [info] Extension host with pid 13996 started
+2025-04-03 13:40:12.194 [info] Skipping acquiring lock for c:\Users\user\Desktop\Mid-Project-main\mid project\PATH_TO_SOME_FOLDER_WHERE_VSCODE_WILL_STORE_TMP_DATA\User\workspaceStorage\72f9fbf0b0944f6d8e8170f07c458d6d.
+2025-04-03 13:40:12.246 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-04-03 13:40:12.392 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-03 13:40:12.451 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-03 13:40:12.573 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-03 13:40:12.718 [info] Eager extensions activated
+2025-04-03 13:40:12.747 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-03 13:40:12.756 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-03 13:40:12.796 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-04-03 13:40:12.919 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-04-03 13:40:13.002 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-04-03 13:58:44.165 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-03 13:58:44.225 [info] Extension host with pid 13996 exiting with code 0

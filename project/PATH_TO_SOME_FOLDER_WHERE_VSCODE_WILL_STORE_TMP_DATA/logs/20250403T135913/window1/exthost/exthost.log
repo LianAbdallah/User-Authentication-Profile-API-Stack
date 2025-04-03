@@ -1,0 +1,8 @@
+2025-04-03 13:59:15.806 [info] Extension host with pid 12196 started
+2025-04-03 13:59:15.807 [info] Skipping acquiring lock for c:\Users\user\Desktop\Mid-Project-main\mid project\PATH_TO_SOME_FOLDER_WHERE_VSCODE_WILL_STORE_TMP_DATA\User\workspaceStorage\72f9fbf0b0944f6d8e8170f07c458d6d.
+2025-04-03 13:59:15.905 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-04-03 13:59:15.986 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-03 13:59:15.996 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-03 13:59:16.081 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-03 13:59:16.281 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-03 13:59:16.300 [info] Extension host with pid 12196 exiting with code 0
